@@ -1,5 +1,13 @@
+import { Fragment } from 'react'
+
 export default () => {
   return (
-    <div>Hello World kajamaenaja</div>
+    <Fragment>
+      <div>Hello World kajamaenaja</div>
+      <div>
+        Hello World1
+      </div>
+      <div>fdfdf</div>
+    </Fragment>
   )
 }
